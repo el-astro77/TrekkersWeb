@@ -7,7 +7,7 @@ Welcome to the Jai Hind Trekkers Website! This is a beautiful website with a mes
 The entire website has been crafted using only HTML and CSS, showcasing the power and creativity of these front-end technologies.
 
 Website URL
-Visit the Jai Hind Trekkers Website (https://trekkers-web.vercel.app/)
+Visit the Jai Hind Trekkers Website (https://trekker-web.vercel.app/)
 
 Features
 Striking 3D effect using CSS perspective
